@@ -1,4 +1,3 @@
-[![MasterHead](http:https://www.linkedin.com/in/emircan-bahce1/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Emircan Bahce</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
